@@ -4,3 +4,11 @@
     margin: 2rem;
     border: 2px solid red;
 }
+
+.sample {
+    background-color: greenyellow;
+    height: 2rem;
+    margin: 2rem 3rem 0 3rem;
+    box-sizing: border-box;
+
+}
