@@ -24,8 +24,23 @@
 
 }
 
-.box2 {}
+.box2 {
+    background-color: orangered;
+    position: absolute;
+    left: 15%;
+    bottom: 30%;
+}
 
-.box3 {}
+.box3 {
+    background-color: yellow;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
 
-.box4 {}
+.box4 {
+    background-color: green;
+    position: absolute;
+    left: 0;
+    top: -2rem;
+}
