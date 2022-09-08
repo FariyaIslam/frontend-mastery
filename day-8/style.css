@@ -7,3 +7,25 @@
 p:nth-child(4) {
     background-color: aqua;
 }
+
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:active {
+    color: rebeccapurple;
+}
+
+a:focus {
+    color: green;
+}
+
+div>p {
+    background-color: yellow;
+    margin: 10pxgit ;
+}
