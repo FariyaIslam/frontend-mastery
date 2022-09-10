@@ -100,8 +100,17 @@
 }
 
 .img1 {
-    background-color: aquamarine;
+    height: 50px;
+    width: 50px;
+    background-color: darkgray;
+    border-radius: 50%;
+    margin-right: 15px;
+    overflow: hidden;
+    padding: 8px;
 }
-.img2{
-    background-color: brown;
+
+.img1 img {
+    width: 100%;
+
+
 }
