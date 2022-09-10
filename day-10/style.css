@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main__parent {
+    padding: 5rem 2rem;
+}
+
+.main__text {
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+
+.main__para {
+    font-size: 1.5rem;
+    font-weight: 250;
+    color: dimgray;
+    padding: 1rem 0 3rem 0;
+}
+
+.second__parent {
+    padding: 4rem 0;
+    display: flex;
+
+}
+
+.div1 {}
+
+.div2 {}
+
+.div3 {}
+
+.art1 {
+    border-radius: 12px;
+    background-color: green;
+    padding: 0.5rem;
+    display: inline;
+}
+
+.heading1 {
+    padding: 1rem 0;
+    font-size: 1.5rem;
+}
+
+.art2 {
+    border-radius: 12px;
+    background-color: rgb(235, 93, 93);
+    padding: 0.5rem;
+    display: inline;
+}
+
+.heading2 {
+    padding: 1rem 0;
+    font-size: 1.5rem;
+}
+
+.art3 {
+    border-radius: 12px;
+    background-color: rgb(93, 133, 235);
+    padding: 0.5rem;
+    display: inline;
+}
+
+.heading3 {
+    padding: 1rem 0;
+    font-size: 1, 5rem;
+}
+
+.para1 {
+    color: dimgray;
+    font-size: 1.1rem;
+    font-weight: 300;
+    padding: 0 2rem 0 0;
+}
+
+.para2 {
+    color: dimgray;
+    font-size: 1.1rem;
+    font-weight: 300;
+    padding: 0 2rem 0 0;
+}
+
+.para3 {
+    color: dimgray;
+    font-size: 1.1rem;
+    font-weight: 300;
+    padding: 0 2rem 0 0;
+}
