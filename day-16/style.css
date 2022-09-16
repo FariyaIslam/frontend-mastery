@@ -3,3 +3,36 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: rgb(244, 236, 220);
+}
+
+.card {
+    height: 500px;
+gi    background-color: white;
+    border-radius: 15px;
+}
+
+.card__img {
+    width: 350px;
+    margin-bottom: 1rem;
+}
+
+.card__img img {
+    object-fit: cover;
+    width: 350px;
+    height: 300px;
+}
+
+.card__content h3 {
+    font-size: 1.5rem;
+}
+
+.card__main {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 20px;
+    row-gap: 20px;
+
+}
