@@ -32,7 +32,7 @@
 
 .hero {
     display: flex;
-    background-color: #dc3545;
+    background-image: linear-gradient(to bottom left, #dc3545, orange);
     justify-content: center;
     align-items: center;
     height: 100vh;
