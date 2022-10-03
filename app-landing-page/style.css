@@ -34,3 +34,12 @@
     display: flex;
     background-color: #dc3545;
 }
+
+.hero__content h1 {
+    color: white;
+    font-size: 2rem;
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding-top: 6rem;
+}
