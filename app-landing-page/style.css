@@ -1,4 +1,8 @@
-* {}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 :root {
     --blue: #007bff;
@@ -24,12 +28,9 @@
     --dark: #343a40;
 }
 
-body {
-    background-color: #6f42c1;
-}
 
 
-.hero__content {
+.hero {
     display: flex;
-    background-color: #28a745;
+    background-color: #dc3545;
 }
