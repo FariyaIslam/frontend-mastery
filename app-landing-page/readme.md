@@ -17,6 +17,9 @@
 - [ ] Basic slider
 - [ ] Scroll to top button
 
+font-family: 'Poppins',
+sans-serif;
+
 
 
 

@@ -24,4 +24,12 @@
     --dark: #343a40;
 }
 
-font-family: 'Poppins', sans-serif;
+body {
+    background-color: #6f42c1;
+}
+
+
+.hero__content {
+    display: flex;
+    background-color: #28a745;
+}
