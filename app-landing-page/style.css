@@ -56,6 +56,13 @@ nav {
     height: 100%;
 }
 
+.nav__h1 {
+    font-size: 2rem;
+    font-weight: 2rem;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
 .nav__li {
     padding: 0.5rem;
     color: white;
