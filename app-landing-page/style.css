@@ -28,6 +28,12 @@
     --dark: #343a40;
 }
 
+.nav__section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
 
 
 .hero {
