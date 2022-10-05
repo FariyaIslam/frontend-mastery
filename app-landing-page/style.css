@@ -29,10 +29,41 @@
 }
 
 .nav__section {
+    height: 75px;
+    width: 100%;
+    padding: 0 4rem;
+    background: powderblue;
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.nav__li {
+    padding: 2rem;
+}
+
+.navbar__links {
     display: flex;
     align-items: center;
     justify-content: center;
-    text-decoration: none;
 }
 
 
