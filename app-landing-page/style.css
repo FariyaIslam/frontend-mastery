@@ -65,10 +65,9 @@ nav {
 
 .nav__li {
     padding: 0.5rem;
-    color: white;
-    text-decoration: none;
-    font-size: 1rem;
-    font-weight: 800;
+    color: #28a745;
+    font-size: 0.9rem;
+    font-weight: 600;
 }
 
 .navbar__links {
