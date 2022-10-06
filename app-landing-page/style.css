@@ -32,7 +32,6 @@
     height: 75px;
     width: 100%;
     padding: 0 4rem;
-    background: powderblue;
     position: fixed;
     top: 0;
     display: flex;
@@ -46,6 +45,8 @@ ul {
 
 a {
     text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
 }
 
 nav {
@@ -65,15 +66,16 @@ nav {
 
 .nav__li {
     padding: 0.5rem;
-    color: #28a745;
     font-size: 0.9rem;
     font-weight: 600;
+    color: #f8f9fa;
 }
 
 .navbar__links {
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 
 
@@ -115,5 +117,5 @@ nav {
 .hero__img {
     width: 50%;
     margin-top: 5rem;
-    margin-left: 6rem;
+    margin-left: 12rem;
 }
