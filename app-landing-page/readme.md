@@ -1,7 +1,8 @@
 # Todo Section
 
-- [ ] Sticky top Navbar
-- [ ] Hero
+- [x] Sticky top Navbar
+- [x] Hero
+- [ ] Features cards
 - [ ] features Section
 - [ ] screenshots Section (slider)
 - [ ] review section

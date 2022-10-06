@@ -28,6 +28,12 @@
     --dark: #343a40;
 }
 
+/* global css */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 .nav__section {
     height: 75px;
     width: 100%;
@@ -118,4 +124,42 @@ nav {
     width: 50%;
     margin-top: 5rem;
     margin-left: 12rem;
+}
+
+.icon {
+    height: 50px;
+    width: 40px;
+    color: #fd7e14;
+
+}
+
+.cards__section {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card h3 {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.card p {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    padding: 0 1rem;
+    font-weight: 400;
+    color: #777;
+    line-height: 23px;
+    margin-bottom: 15px;
 }
