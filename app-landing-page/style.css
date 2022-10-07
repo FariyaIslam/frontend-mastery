@@ -197,3 +197,8 @@ nav {
     text-align: center;
     margin-bottom: 5px;
 }
+
+.blog__section {
+    background-color: #28a745;
+    height: 70vh;
+}
