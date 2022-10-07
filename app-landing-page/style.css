@@ -216,11 +216,15 @@ nav {
 
 .blog__content p {
     font-size: 14px;
-    margin-bottom: 15px;
+    margin-bottom: 16px;
     font-family: 'Poppins', sans-serif;
     color: #777;
 }
 
 .blog__list {
     display: flex;
+}
+
+.blog__content1 h3 {
+    color: #666;
 }
