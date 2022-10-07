@@ -202,3 +202,12 @@ nav {
     background-color: #28a745;
     height: 70vh;
 }
+
+.blog__content {
+    text-align: center;
+}
+
+.blog__content h2 {
+    font-family: 'Poppins', sans-serif;
+
+}
