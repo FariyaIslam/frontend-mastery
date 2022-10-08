@@ -167,6 +167,7 @@ nav {
 }
 
 .feature__section {
+    margin: 2rem 0;
     background: linear-gradient(to right, #fc8b56, #fd5656);
     height: 130vh;
 }
@@ -247,4 +248,29 @@ nav {
     color: #fc8b56;
     font-size: 12px;
     font-weight: 700;
+}
+
+.download__container {
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #777;
+    text-align: center;
+    height: 80vh;
+}
+
+.download__content h2 {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 1.7;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.download__content p {
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 16px;
 }
