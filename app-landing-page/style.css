@@ -36,7 +36,7 @@
 
 .nav__section {
     height: 75px;
-    width: 100vw;
+    width: 100%;
     position: fixed;
     top: 0;
     display: flex;
@@ -48,10 +48,12 @@
 
 nav {
     min-width: 1200px;
-    width: 100%;
-    padding: 0 auto;
+    width: 80%;
     margin: 0 auto;
-
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 ul {
@@ -130,15 +132,13 @@ a {
 
 .hero__icons {
     padding-left: 6rem;
-    margin-top: 1rm;
+    margin-top: 1rem;
 }
 
 .icon {
     height: 50px;
     width: 40px;
     color: #fd7e14;
-    padding-left: 5rem;
-
 }
 
 .cards__section {
