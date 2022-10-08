@@ -128,10 +128,16 @@ nav {
     margin-left: 12rem;
 }
 
+.hero__icons {
+    padding-left: 6rem;
+    margin-top: 1rem;
+}
+
 .icon {
     height: 50px;
     width: 40px;
     color: #fd7e14;
+    padding-left: 5rem;
 
 }
 
