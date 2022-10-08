@@ -255,7 +255,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #777;
+    background-color: #fd5656;
     text-align: center;
     height: 80vh;
 }
@@ -274,3 +274,7 @@ nav {
     color: #fff;
     margin-bottom: 16px;
 }
+
+.spacer {}
+
+.bg1 {}
