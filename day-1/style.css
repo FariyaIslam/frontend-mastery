@@ -1,0 +1,18 @@
+h1 {
+    background-color: green;
+    text-align: center;
+}
+
+p {
+    font-size: 1.5rem;
+    margin: 2rem 3rem 0 3rem;
+}
+
+.button {
+    align-items: center;
+    justify-content: center;
+    color: blueviolet;
+    margin: 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}

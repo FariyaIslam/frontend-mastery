@@ -1,0 +1,59 @@
+.parent {
+    height: 95vh;
+    width: 95vw;
+    margin: 1rem;
+    background-color: blueviolet;
+    position: relative;
+}
+
+.box1,
+.box2,
+.box3,
+.box4 {
+    height: 130px;
+    width: 130px;
+    border: 1px solid black;
+}
+
+.box1 {
+    background-color: white;
+    position: absolute;
+    top: 15%;
+    right: 10%;
+
+
+}
+
+.box2 {
+    background-color: orangered;
+    position: absolute;
+    left: 15%;
+    bottom: 30%;
+}
+
+.box3 {
+    background-color: yellow;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.box4 {
+    background-color: green;
+    position: absolute;
+    left: 0;
+    top: -2rem;
+}
+
+h1 {
+    color: #008000;
+}
+
+h2 {
+    background-color: rgb(255, 80, 220);
+}
+
+h3 {
+    background-color: rgba(0, 0, 0, .1);
+
+}
