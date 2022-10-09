@@ -295,6 +295,7 @@ a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+<<<<<<< HEAD
 }
 
 footer {
@@ -312,4 +313,6 @@ footer {
 
 footer p {
     font-size: 12px;
+=======
+>>>>>>> e7549bed43fb33a54cc8a4280cae748b11c13dd2
 }
